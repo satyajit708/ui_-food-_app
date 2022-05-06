@@ -1,0 +1,199 @@
+1
+00:00:00,180 --> 00:00:05,040
+Previously, we managed to sign him first, so in this video, we are going to make a sign of page.
+
+2
+00:00:06,220 --> 00:00:10,840
+So let's select this frame signing page and two speech.
+
+3
+00:00:12,330 --> 00:00:15,300
+Like this and listing image and to sign up.
+
+4
+00:00:16,800 --> 00:00:22,530
+So you can sign up as we have to change things you can see in the wireframe, the things like we have
+
+5
+00:00:22,530 --> 00:00:28,500
+to change the sign up button, we require some extra lines like on phone password and also we have to
+
+6
+00:00:28,500 --> 00:00:29,400
+change the sign up.
+
+7
+00:00:30,600 --> 00:00:32,340
+So let's make those changes.
+
+8
+00:00:33,150 --> 00:00:36,900
+OK, let's first, let's change the color of this font.
+
+9
+00:00:37,110 --> 00:00:41,160
+Currently, it's kind of low level, so let's make it.
+
+10
+00:00:42,680 --> 00:00:43,160
+White.
+
+11
+00:00:44,930 --> 00:00:47,150
+And let's move this rectangle.
+
+12
+00:00:48,250 --> 00:00:50,440
+On the right side.
+
+13
+00:00:53,580 --> 00:00:54,960
+OK, additional.
+
+14
+00:00:54,990 --> 00:01:02,450
+So let's turn the color of the logging, so currently, despite the make you this color, OK?
+
+15
+00:01:02,850 --> 00:01:08,910
+OK, now what we have to do is that we have to add one more line and it is going to be our password.
+
+16
+00:01:09,890 --> 00:01:14,900
+So let's move this forward password.
+
+17
+00:01:14,930 --> 00:01:15,860
+That's a good downward.
+
+18
+00:01:18,470 --> 00:01:20,780
+Like this and this copied this line.
+
+19
+00:01:23,000 --> 00:01:25,400
+Let's copy this password and this line.
+
+20
+00:01:28,100 --> 00:01:30,560
+Holder trended downwards.
+
+21
+00:01:32,300 --> 00:01:34,100
+OK, what password is greater now?
+
+22
+00:01:35,170 --> 00:01:43,080
+OK, let's align them together, select human hold shift, select all the things password dump on password
+
+23
+00:01:43,090 --> 00:01:48,790
+and this last line, and go to a line setting and click on more options and choose.
+
+24
+00:01:49,340 --> 00:01:50,770
+This should be what you call spacing.
+
+25
+00:01:51,940 --> 00:01:52,300
+OK.
+
+26
+00:01:52,360 --> 00:01:53,350
+It is a line now.
+
+27
+00:01:55,990 --> 00:01:56,650
+I can see you.
+
+28
+00:01:57,280 --> 00:02:00,430
+So let's move this forward password, little --.
+
+29
+00:02:02,310 --> 00:02:03,170
+Of course.
+
+30
+00:02:05,880 --> 00:02:06,160
+OK.
+
+31
+00:02:06,270 --> 00:02:06,780
+Like this.
+
+32
+00:02:07,530 --> 00:02:10,440
+So currently, we are on a sign up, it's changing to sign up.
+
+33
+00:02:11,890 --> 00:02:16,030
+Let alone it horizontally, we can see it is alone in the center, no.
+
+34
+00:02:17,070 --> 00:02:27,090
+So one thing is determining that some icons like you might seen some apps where you have the eye symbol
+
+35
+00:02:27,090 --> 00:02:33,480
+audio McGillis are those eyes go to S8 like on this dream library.
+
+36
+00:02:34,420 --> 00:02:36,370
+And toggle this feather icons.
+
+37
+00:02:37,380 --> 00:02:39,030
+And search for I.
+
+38
+00:02:41,780 --> 00:02:44,330
+OK, you can see the symbol.
+
+39
+00:02:45,080 --> 00:02:46,700
+So it was this one.
+
+40
+00:02:47,950 --> 00:02:52,720
+So let's decrease the size of it up to like this, like 60.
+
+41
+00:02:55,120 --> 00:02:57,610
+So let's change the color of it, currently, it is black.
+
+42
+00:02:58,510 --> 00:03:00,910
+So we are going to choose this.
+
+43
+00:03:02,000 --> 00:03:04,010
+A little simpler of this password.
+
+44
+00:03:05,620 --> 00:03:12,670
+And acidic or drug, you don't sign up bridge and so on.
+
+45
+00:03:13,090 --> 00:03:13,900
+Gone from fast food.
+
+46
+00:03:18,060 --> 00:03:21,930
+So the only the last thing is remaining, that is the main page.
+
+47
+00:03:22,770 --> 00:03:24,630
+You can see the wire free market.
+
+48
+00:03:25,050 --> 00:03:27,300
+So in the next hour, we are going to make that ways.
+
+49
+00:03:27,870 --> 00:03:29,920
+So that report really good analysis of, hasn't it?
+
+50
+00:03:29,950 --> 00:03:30,450
+Next one.

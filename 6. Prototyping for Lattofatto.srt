@@ -1,0 +1,491 @@
+1
+00:00:00,180 --> 00:00:06,960
+Welcome back in Brazil, we met this man who paid, so one thing is remaining for this project is there
+
+2
+00:00:07,440 --> 00:00:10,120
+to do prototyping so.
+
+3
+00:00:10,330 --> 00:00:17,820
+So I'll show you how to do prototyping so you can pause the video and do on your own or if you don't
+
+4
+00:00:17,820 --> 00:00:20,520
+know how to do it, so you can continue the video.
+
+5
+00:00:22,460 --> 00:00:24,770
+So I assume you done that part.
+
+6
+00:00:25,130 --> 00:00:27,350
+So let's do the programming for this project.
+
+7
+00:00:27,380 --> 00:00:32,660
+Let's go to the panel and you can see this wide shot.
+
+8
+00:00:32,900 --> 00:00:35,660
+And when I hold over it, it becomes a plus.
+
+9
+00:00:35,660 --> 00:00:41,870
+I can click on it and drag it on the sign in page so you can see this menu will be purple.
+
+10
+00:00:42,890 --> 00:00:44,600
+So this is don't a detailed panel.
+
+11
+00:00:44,960 --> 00:00:53,480
+So you can see we have options like aren't so currently listed on tab and navigate to same page.
+
+12
+00:00:53,870 --> 00:00:56,720
+So we are navigating from Ben Page to signing page.
+
+13
+00:00:57,110 --> 00:00:59,240
+So it is, it is OK.
+
+14
+00:00:59,600 --> 00:01:02,510
+So if you want, you can add an image in it.
+
+15
+00:01:02,720 --> 00:01:04,610
+So currently, let's go with instant.
+
+16
+00:01:05,540 --> 00:01:06,770
+And I think that's it.
+
+17
+00:01:07,250 --> 00:01:08,960
+Now click on the same page.
+
+18
+00:01:10,370 --> 00:01:15,230
+So you can see we have options like logging in a sign up, let's say, users and installing this app
+
+19
+00:01:15,230 --> 00:01:19,580
+called First Time, so he want to go to the signup page so he can click on the sign a button.
+
+20
+00:01:19,970 --> 00:01:21,560
+So let's do it.
+
+21
+00:01:21,600 --> 00:01:22,220
+Interaction.
+
+22
+00:01:24,530 --> 00:01:30,590
+So we can see in the interaction, judges are never going to sign up page and the animation is instant.
+
+23
+00:01:31,520 --> 00:01:36,530
+Let's say it was a race like have already happened and accidentally touch on the sign up button.
+
+24
+00:01:36,800 --> 00:01:43,010
+So here you want to go back on the login page or sign in page so he can go back by using this login
+
+25
+00:01:43,010 --> 00:01:43,310
+button.
+
+26
+00:01:43,310 --> 00:01:49,580
+So let's less what interaction and navigate to and which all these things will be same for it.
+
+27
+00:01:49,580 --> 00:01:51,630
+So we don't have to change anything.
+
+28
+00:01:51,650 --> 00:01:52,190
+Audio.
+
+29
+00:01:53,340 --> 00:01:58,500
+Then let's say it was reported similarly and the password and you want to go to the main menu page.
+
+30
+00:01:58,920 --> 00:02:01,410
+So let's give the interaction to this button.
+
+31
+00:02:04,470 --> 00:02:07,620
+OK, from Logan Page, you will go on the main page.
+
+32
+00:02:08,880 --> 00:02:11,910
+And also the same with design a button.
+
+33
+00:02:13,220 --> 00:02:19,670
+From sign up, he will go on the main page after putting all the details like us username, Emily,
+
+34
+00:02:19,700 --> 00:02:20,930
+password and password.
+
+35
+00:02:21,650 --> 00:02:22,760
+I think we're done here.
+
+36
+00:02:24,740 --> 00:02:28,370
+When I click on the this blank space, we will get these options.
+
+37
+00:02:29,240 --> 00:02:32,240
+So from here, if you want to change the device, you can change it from here.
+
+38
+00:02:32,630 --> 00:02:36,800
+So currently I am choosing this iPhone 11 Pro Max, so select this one.
+
+39
+00:02:37,100 --> 00:02:41,000
+And if you want it in the model or you can do it from here, currently it's gold.
+
+40
+00:02:41,930 --> 00:02:48,060
+You can choose silver, space gray green like this and it will show the preview.
+
+41
+00:02:48,440 --> 00:02:51,290
+And if you want to change the background color of it, you can do it from here.
+
+42
+00:02:51,680 --> 00:02:56,000
+So currently it is black again, like you would any color you want.
+
+43
+00:02:56,180 --> 00:02:56,720
+Like this?
+
+44
+00:02:57,410 --> 00:03:00,980
+So let's go with white, so it doesn't matter.
+
+45
+00:03:01,160 --> 00:03:05,930
+You can choose any color so you can see here we have horizontal and vertical orientation.
+
+46
+00:03:06,050 --> 00:03:10,220
+If you want to change it into horizontal, you continue like this or portrait.
+
+47
+00:03:10,820 --> 00:03:15,530
+So let's go with the portrait and let's click on this present button.
+
+48
+00:03:16,950 --> 00:03:22,350
+You can see our is presenting and the present icon over here on the top.
+
+49
+00:03:22,650 --> 00:03:22,980
+But.
+
+50
+00:03:24,030 --> 00:03:30,240
+OK, you can see the first brand page, if I click on this, we will get on the sign in page.
+
+51
+00:03:30,690 --> 00:03:35,340
+After that, if I click on this blank space, you can see we get two hot kids.
+
+52
+00:03:35,430 --> 00:03:38,070
+Those are like a sign up and log in page.
+
+53
+00:03:38,340 --> 00:03:45,180
+Let's say I'm a new user and I want to sign up, so I'm going to tap the sign up button and I can put
+
+54
+00:03:45,180 --> 00:03:48,000
+my details like username, password and confirm password.
+
+55
+00:03:48,420 --> 00:03:50,130
+And after that, I can sign up.
+
+56
+00:03:51,310 --> 00:03:58,300
+So I can also beg on the log in page if I want like this and let's click on logging.
+
+57
+00:03:59,110 --> 00:04:03,010
+So we're on it so I can order is boggle from you.
+
+58
+00:04:03,280 --> 00:04:05,860
+If you want to, you can let go animation to these pages.
+
+59
+00:04:06,850 --> 00:04:08,050
+If we click on this, sign up.
+
+60
+00:04:08,920 --> 00:04:13,780
+You want to do animation like a moving or mortar push so we can do it from here.
+
+61
+00:04:14,440 --> 00:04:18,700
+Let's choose a movie and you will see the little interaction over here.
+
+62
+00:04:19,270 --> 00:04:26,140
+And you can also join the time over there, currently with 300 milliseconds and the animation is in
+
+63
+00:04:26,140 --> 00:04:27,010
+is ithout format.
+
+64
+00:04:29,240 --> 00:04:31,880
+OK, let's pretend this one.
+
+65
+00:04:33,450 --> 00:04:36,780
+You can press are to restart this application from the beginning.
+
+66
+00:04:37,470 --> 00:04:42,420
+So I'm going to press ah on the keyboard so you can see our landing page.
+
+67
+00:04:44,350 --> 00:04:46,390
+OK, so let's click on this sign up.
+
+68
+00:04:46,990 --> 00:04:49,210
+We can see that move in effect audio.
+
+69
+00:04:49,810 --> 00:04:51,160
+Let me show you one cool thing.
+
+70
+00:04:51,490 --> 00:04:54,220
+So let's go to Grant Page Random page.
+
+71
+00:04:54,850 --> 00:04:57,850
+Click on this arrow Typekit arrow.
+
+72
+00:04:58,450 --> 00:05:00,190
+And currently we are on on tab.
+
+73
+00:05:00,190 --> 00:05:09,640
+So let's go to our smart animation audio and let's live up to like a gender militant and we can change
+
+74
+00:05:09,640 --> 00:05:15,160
+it like argue in direction like aren't about entourage while hovering and all that.
+
+75
+00:05:15,910 --> 00:05:23,560
+Let's just like a while holding onto Mouse Center and let's pretend is less press are to restart.
+
+76
+00:05:24,730 --> 00:05:29,770
+And if I would like a out of my most or this app, you can see that animation.
+
+77
+00:05:31,200 --> 00:05:32,220
+Let me do it again.
+
+78
+00:05:34,310 --> 00:05:35,600
+You can see that animation.
+
+79
+00:05:36,080 --> 00:05:44,060
+So let's change a little bit like go order, and let's increase the name up to 500 milliseconds.
+
+80
+00:05:45,660 --> 00:05:49,020
+And this president yet again to restart.
+
+81
+00:05:50,120 --> 00:05:54,650
+And on tap, you can see the animation become a bit slow.
+
+82
+00:05:55,690 --> 00:05:56,320
+Like this.
+
+83
+00:05:56,800 --> 00:06:00,370
+So because of this are smart animation, we get that cool effect.
+
+84
+00:06:00,820 --> 00:06:02,350
+So I will let go.
+
+85
+00:06:02,830 --> 00:06:04,570
+Set it over like Boyd Holding.
+
+86
+00:06:05,200 --> 00:06:08,770
+And let's make it up to victory and putting two hundred looks very cute.
+
+87
+00:06:09,640 --> 00:06:11,420
+And let's go to within reach.
+
+88
+00:06:12,490 --> 00:06:17,650
+Press of when I like into my mouth on the Ellis brand page, you can see the interaction.
+
+89
+00:06:17,950 --> 00:06:19,870
+The brand name goes on the top.
+
+90
+00:06:20,050 --> 00:06:28,180
+And if I leave this app, you can see this again comes to the random page and I can do in direction
+
+91
+00:06:28,180 --> 00:06:28,630
+directional here.
+
+92
+00:06:28,720 --> 00:06:29,350
+Like, sign up.
+
+93
+00:06:30,590 --> 00:06:35,870
+OK, that you can see that in effect, and you can go to the sign up page if you want to, you can add
+
+94
+00:06:35,990 --> 00:06:37,250
+animation to dismantle base.
+
+95
+00:06:37,400 --> 00:06:40,340
+Let's add some animation on the page.
+
+96
+00:06:43,490 --> 00:06:50,510
+Circling the sign up page, follow this arrow, and let's say I had a mission, so let's try this design.
+
+97
+00:06:51,790 --> 00:06:52,140
+OK.
+
+98
+00:06:52,720 --> 00:06:55,830
+And let's Britain this one, let's hit our.
+
+99
+00:06:58,100 --> 00:06:58,630
+Log in.
+
+100
+00:06:59,290 --> 00:07:00,050
+OK, sorry.
+
+101
+00:07:01,310 --> 00:07:02,900
+He tore sign up page.
+
+102
+00:07:03,110 --> 00:07:07,820
+And from and from sign up basically giving that effect.
+
+103
+00:07:09,120 --> 00:07:09,540
+OK.
+
+104
+00:07:09,990 --> 00:07:10,860
+It looks really cool.
+
+105
+00:07:10,890 --> 00:07:11,580
+It is fully.
+
+106
+00:07:12,000 --> 00:07:13,320
+I think it is very in effect.
+
+107
+00:07:15,100 --> 00:07:18,130
+Has argued that any mission to the log in button also.
+
+108
+00:07:22,740 --> 00:07:24,390
+OK, let's hit our.
+
+109
+00:07:26,380 --> 00:07:30,130
+And Long Beach property, that is all different.
+
+110
+00:07:31,090 --> 00:07:37,330
+If you're only going to use a machine like smart animation, so let's choose a smart animation and let's
+
+111
+00:07:37,330 --> 00:07:39,700
+broaden the screen, hit our.
+
+112
+00:07:41,050 --> 00:07:48,760
+Logging, you can see that cool animation, audio, smart animation that looks cool so you can set any
+
+113
+00:07:48,760 --> 00:07:49,780
+animation you want.
+
+114
+00:07:50,110 --> 00:07:52,930
+So it depends on you and when you do, that also depends on your project.
+
+115
+00:07:53,230 --> 00:07:55,420
+So this is where we complete our project one.
+
+116
+00:07:55,660 --> 00:07:57,490
+Let's see if you are struggling with this project.
+
+117
+00:07:57,620 --> 00:08:00,790
+We have to watch our video again and again to do this project.
+
+118
+00:08:01,800 --> 00:08:05,350
+So if you made this project, we can share this project on the Instagram or Twitter.
+
+119
+00:08:05,370 --> 00:08:07,370
+And you can also take me or there.
+
+120
+00:08:07,590 --> 00:08:14,310
+So in the next project, we are going to make a movie website or you can say, like a streaming service
+
+121
+00:08:14,610 --> 00:08:16,500
+application like Netflix, Amazon Prime.
+
+122
+00:08:17,310 --> 00:08:18,330
+So that's me signing off.
+
+123
+00:08:18,360 --> 00:08:20,700
+Thanks for watching, and I was already in the next one.

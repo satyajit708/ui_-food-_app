@@ -1,0 +1,959 @@
+1
+00:00:00,150 --> 00:00:05,040
+Welcome back in this world, we're going to make wireframe for our project that is that offered online
+
+2
+00:00:05,040 --> 00:00:09,030
+full order application, so you can see the application is look like this.
+
+3
+00:00:09,300 --> 00:00:10,470
+This is the final project.
+
+4
+00:00:10,590 --> 00:00:12,450
+So let's create a wire frame for it.
+
+5
+00:00:12,510 --> 00:00:13,980
+Let's create a new page.
+
+6
+00:00:14,760 --> 00:00:15,930
+Click on the plus icon.
+
+7
+00:00:16,830 --> 00:00:17,970
+So these are applied.
+
+8
+00:00:18,510 --> 00:00:19,980
+So let's rename it.
+
+9
+00:00:22,870 --> 00:00:29,310
+So first of all, we are going to need frame, you can press F or you can go into this section and choose
+
+10
+00:00:29,360 --> 00:00:32,800
+frame and select iPhone 11 Pro Max frame.
+
+11
+00:00:33,730 --> 00:00:38,200
+So in first frame, we only want to show the brand name that is left of it.
+
+12
+00:00:38,740 --> 00:00:40,750
+So let's clear some components for it.
+
+13
+00:00:41,170 --> 00:00:43,360
+First, let's make some more frames.
+
+14
+00:00:48,550 --> 00:00:51,010
+OK, our five frames are created now.
+
+15
+00:00:51,580 --> 00:00:57,010
+So first frame is going to be our brand name page, and the second one is signing face, then third
+
+16
+00:00:57,010 --> 00:00:59,500
+one in sign up page and in fourth frame.
+
+17
+00:00:59,500 --> 00:01:07,210
+We are going to add like a fourth we can order food is there like burger pizza and fried chicken and
+
+18
+00:01:07,210 --> 00:01:07,600
+all that.
+
+19
+00:01:08,170 --> 00:01:10,660
+So I think we don't need a fifth trip.
+
+20
+00:01:10,690 --> 00:01:11,950
+So let's do this one.
+
+21
+00:01:13,100 --> 00:01:15,190
+If the frame rate on your keyboard.
+
+22
+00:01:16,560 --> 00:01:17,760
+The frame is different now.
+
+23
+00:01:18,480 --> 00:01:20,370
+So we have all frames now.
+
+24
+00:01:20,580 --> 00:01:32,250
+Let's make some components select the rectangle, draw the angle, like this ad or text?
+
+25
+00:01:33,550 --> 00:01:35,560
+So it is going to be our brand name.
+
+26
+00:01:36,980 --> 00:01:38,210
+The font is too small.
+
+27
+00:01:38,630 --> 00:01:43,640
+Select the font, go to design panel and increase the font of two local politics.
+
+28
+00:01:44,750 --> 00:01:45,170
+OK.
+
+29
+00:01:46,170 --> 00:01:47,140
+I just want.
+
+30
+00:01:48,200 --> 00:01:49,130
+And the center.
+
+31
+00:01:49,700 --> 00:01:50,930
+So this is our first component.
+
+32
+00:01:51,500 --> 00:01:58,610
+So select the both the rectangle and the text to select the multiple things you know that we have to
+
+33
+00:01:58,610 --> 00:02:08,030
+hold, shift and press the text and the rectangle are selected now and we have to press control G to
+
+34
+00:02:08,030 --> 00:02:09,170
+make a group.
+
+35
+00:02:09,650 --> 00:02:17,010
+So if I move like this, then bolting together, let's say you don't make a group on this.
+
+36
+00:02:17,030 --> 00:02:18,750
+First of all, I neutral on this.
+
+37
+00:02:19,280 --> 00:02:20,990
+OK, so if I move this?
+
+38
+00:02:22,260 --> 00:02:25,100
+You can see the brand name is not coming with this tangle.
+
+39
+00:02:25,440 --> 00:02:27,210
+That's why we grouped them.
+
+40
+00:02:27,630 --> 00:02:33,720
+So for grouping Celebrity Angle, you hold shift celebrity and press control.
+
+41
+00:02:35,640 --> 00:02:42,840
+And this is now a group, so if I like a more like this on the screen, you can see the mood things
+
+42
+00:02:42,840 --> 00:02:45,480
+are going to get less May goes down.
+
+43
+00:02:45,600 --> 00:02:53,220
+So I told you how to make component, select your element and go to Bomberman and select this one button.
+
+44
+00:02:54,240 --> 00:03:01,470
+And now this is your component, so you can use them multiple times in your project, and you can also
+
+45
+00:03:01,470 --> 00:03:05,370
+access to this asset when you can see the brand name.
+
+46
+00:03:05,520 --> 00:03:08,790
+Let's make a second component that is going to be our image.
+
+47
+00:03:09,240 --> 00:03:10,140
+Let's choose rectangle.
+
+48
+00:03:10,680 --> 00:03:11,580
+The shortcut is are.
+
+49
+00:03:12,600 --> 00:03:15,480
+And let's make a perfect square hole shift.
+
+50
+00:03:17,150 --> 00:03:19,920
+Like this, and let's earn some.
+
+51
+00:03:21,250 --> 00:03:21,820
+What do you want him?
+
+52
+00:03:23,590 --> 00:03:30,460
+You can see the color of Polygon and the square is gray, so we have to change the color of Polygon,
+
+53
+00:03:31,090 --> 00:03:38,920
+so to do that, select the Polygon Go and redesign panel, click on the field and let's move this closer
+
+54
+00:03:38,920 --> 00:03:39,560
+to us.
+
+55
+00:03:39,760 --> 00:03:41,020
+White like this?
+
+56
+00:03:42,230 --> 00:03:43,300
+This smallest one like this.
+
+57
+00:03:43,370 --> 00:03:45,140
+OK, let's duplicate this one.
+
+58
+00:03:49,940 --> 00:03:50,300
+OK.
+
+59
+00:03:50,600 --> 00:03:55,490
+Michael, from this side of the mountain, and let's make a small.
+
+60
+00:03:57,420 --> 00:03:57,840
+Some.
+
+61
+00:04:00,020 --> 00:04:00,470
+Okay.
+
+62
+00:04:01,320 --> 00:04:07,560
+Like this, we have to also change the color of their skin onto whites like this.
+
+63
+00:04:09,580 --> 00:04:09,970
+OK.
+
+64
+00:04:10,330 --> 00:04:16,620
+So this is our image and select all the things and press control.
+
+65
+00:04:17,440 --> 00:04:20,140
+So this thing is group now and let's make this.
+
+66
+00:04:21,140 --> 00:04:22,460
+Element into component.
+
+67
+00:04:23,000 --> 00:04:26,060
+So this is our second component.
+
+68
+00:04:26,240 --> 00:04:28,640
+So let's make a profile picture.
+
+69
+00:04:29,760 --> 00:04:31,380
+Component four.
+
+70
+00:04:31,440 --> 00:04:38,580
+We are going to use Circle so we can price or we can use this ellipsis button.
+
+71
+00:04:39,860 --> 00:04:42,220
+Moist air from this imagine.
+
+72
+00:04:43,580 --> 00:04:44,690
+First of all, we need to.
+
+73
+00:04:46,290 --> 00:04:47,010
+Make it small.
+
+74
+00:04:47,610 --> 00:04:53,970
+Now let's add this image into this segment, or we can see the image is not visible because it is in
+
+75
+00:04:54,450 --> 00:04:55,320
+the images selected.
+
+76
+00:04:55,590 --> 00:05:00,480
+Click right on it and you can see the option been to front.
+
+77
+00:05:01,750 --> 00:05:11,020
+And you can see the images now in front like this and select all of the things from press control gene
+
+78
+00:05:11,080 --> 00:05:14,170
+to group them is now grouped and let's make a component.
+
+79
+00:05:14,680 --> 00:05:16,250
+OK, this one is a component now.
+
+80
+00:05:16,510 --> 00:05:18,490
+So this element is for profile picture.
+
+81
+00:05:19,330 --> 00:05:22,750
+Let's make sign in and sign up Bar Navigation Bar.
+
+82
+00:05:24,280 --> 00:05:26,140
+For that, we are on a new rectangle.
+
+83
+00:05:28,050 --> 00:05:33,690
+Let's make sure it's not just with our frame, so it perfectly matches with our screen.
+
+84
+00:05:34,740 --> 00:05:36,780
+I think we have to dig a little bit.
+
+85
+00:05:38,740 --> 00:05:40,090
+Now, let's add a text image.
+
+86
+00:05:41,340 --> 00:05:43,350
+First on its signing.
+
+87
+00:05:44,860 --> 00:05:47,070
+And the second one is sign up.
+
+88
+00:05:48,890 --> 00:05:55,310
+So let's align them together, set all the things for us to take the sign in the rectangle.
+
+89
+00:05:55,580 --> 00:05:57,350
+Now select the sign up button.
+
+90
+00:05:58,220 --> 00:06:04,340
+Now go to design Bennett and let's first and then bottom novelists align them vertically.
+
+91
+00:06:05,130 --> 00:06:06,320
+OK, it is now.
+
+92
+00:06:06,920 --> 00:06:14,930
+So next thing we have to make is that logging button and a button, so that sort of distress lubricated
+
+93
+00:06:15,200 --> 00:06:16,250
+by pressing art.
+
+94
+00:06:16,580 --> 00:06:19,580
+And the first one is going to be our logging.
+
+95
+00:06:21,620 --> 00:06:24,830
+I forgot to make this navigation bar into component.
+
+96
+00:06:26,400 --> 00:06:32,340
+Select all the things control G and select only just one button.
+
+97
+00:06:32,970 --> 00:06:37,260
+So this thing is not component, let's make this page also a component.
+
+98
+00:06:39,270 --> 00:06:42,780
+Duplicate this burden and remember to.
+
+99
+00:06:43,840 --> 00:06:44,290
+Sign up.
+
+100
+00:06:46,020 --> 00:06:53,610
+So this is our last component, and we are going to need some major buttons like hamburger or some icons
+
+101
+00:06:53,610 --> 00:06:55,530
+like Facebook, Google and Twitter.
+
+102
+00:06:55,980 --> 00:06:58,380
+Intimate library really, really showed you.
+
+103
+00:06:58,710 --> 00:07:02,640
+We installed some icon packages so we can use this.
+
+104
+00:07:03,030 --> 00:07:04,290
+Use them in this project.
+
+105
+00:07:04,560 --> 00:07:09,420
+So to access those things, go to Assad and click on this book icon.
+
+106
+00:07:10,590 --> 00:07:12,420
+You can see for the Icon Plus actor.
+
+107
+00:07:12,930 --> 00:07:14,220
+Click on this toggle button.
+
+108
+00:07:14,550 --> 00:07:20,270
+You can see we can use this icons, so we need this hamburger menu icon.
+
+109
+00:07:20,280 --> 00:07:21,720
+So let's more.
+
+110
+00:07:22,910 --> 00:07:26,390
+This one, and you can also search.
+
+111
+00:07:27,500 --> 00:07:30,350
+Like Facebook, Twitter.
+
+112
+00:07:32,070 --> 00:07:34,890
+And so long as we were.
+
+113
+00:07:35,040 --> 00:07:38,490
+But it is not available so we can use.
+
+114
+00:07:39,750 --> 00:07:42,570
+Other icons, like all of this is.
+
+115
+00:07:43,410 --> 00:07:45,570
+OK, we now have these four icons.
+
+116
+00:07:46,270 --> 00:07:47,670
+Let's make our wireframe.
+
+117
+00:07:48,360 --> 00:07:52,560
+So we created all the components, so we are going to use them in our bathroom.
+
+118
+00:07:53,010 --> 00:07:57,240
+So in front page, we have to add a brand name.
+
+119
+00:07:57,240 --> 00:07:58,080
+So I'm going to.
+
+120
+00:07:59,080 --> 00:08:07,300
+Drank this like this, let it just it vertically okayed it, and just now, let's rename it into like
+
+121
+00:08:07,330 --> 00:08:07,840
+brand.
+
+122
+00:08:09,150 --> 00:08:11,700
+And second, he's is going to be signing.
+
+123
+00:08:12,950 --> 00:08:15,770
+And the third one is a line of which.
+
+124
+00:08:17,430 --> 00:08:19,090
+And the last one is men.
+
+125
+00:08:19,710 --> 00:08:21,930
+OK, so we have four pages now.
+
+126
+00:08:22,020 --> 00:08:24,600
+The first one is done so in second frame.
+
+127
+00:08:24,760 --> 00:08:28,680
+What I want to do is that I want to an image on the top.
+
+128
+00:08:30,090 --> 00:08:31,500
+So let's try like this.
+
+129
+00:08:33,060 --> 00:08:40,510
+And I also want to put a brand name on this image, so let's track this endless ad running.
+
+130
+00:08:41,100 --> 00:08:45,630
+So our, you know, will know so this image and this is the brand name.
+
+131
+00:08:46,110 --> 00:08:49,980
+I think the color is the same, so we have to change the color and the branding.
+
+132
+00:08:50,010 --> 00:08:52,110
+So let's select the master component.
+
+133
+00:08:53,150 --> 00:08:55,340
+Let's make it more darker like this.
+
+134
+00:08:55,910 --> 00:09:00,710
+And this makes finding page so we are going to regret this action murder.
+
+135
+00:09:01,340 --> 00:09:04,400
+So next, we want to like username, so let's draw a line.
+
+136
+00:09:05,910 --> 00:09:09,040
+So we need to lines the first one is for username.
+
+137
+00:09:09,060 --> 00:09:10,890
+And the second one is for.
+
+138
+00:09:12,260 --> 00:09:16,850
+Password and, uh, uh, we have to earn a log in button.
+
+139
+00:09:18,660 --> 00:09:26,290
+Or more towards the second frame like this, and let's end our log in with buttons.
+
+140
+00:09:26,530 --> 00:09:29,140
+Those are Facebook, Google and we don't.
+
+141
+00:09:30,170 --> 00:09:34,100
+So let's lend them together first, so let's make them bigger.
+
+142
+00:09:35,210 --> 00:09:38,120
+First is going to be Facebook, second is going to be Google.
+
+143
+00:09:39,920 --> 00:09:46,520
+So let's align them together, select Facebook, Hold Shift, Select Log and select Trudeau.
+
+144
+00:09:47,270 --> 00:09:49,430
+First, we have to add just the bottom.
+
+145
+00:09:50,470 --> 00:09:52,600
+And lest I them vertically.
+
+146
+00:09:54,070 --> 00:09:54,580
+OK.
+
+147
+00:09:54,610 --> 00:09:57,430
+And let's earn some horizontal spacing.
+
+148
+00:09:58,270 --> 00:09:58,750
+OK.
+
+149
+00:09:59,020 --> 00:10:00,430
+So these things are aligned.
+
+150
+00:10:00,880 --> 00:10:02,470
+So in this space, we have a problem.
+
+151
+00:10:02,680 --> 00:10:05,110
+So our under a will not know.
+
+152
+00:10:05,320 --> 00:10:09,460
+This is the sign up with your sign in page because all things are the same.
+
+153
+00:10:09,850 --> 00:10:17,830
+So what we can do is that we can make this signing which bold so current it is regular.
+
+154
+00:10:18,400 --> 00:10:19,210
+Let's make it bold.
+
+155
+00:10:21,980 --> 00:10:24,430
+OK, now our new will last.
+
+156
+00:10:24,530 --> 00:10:28,820
+This is the sign in page, so next page we have to make.
+
+157
+00:10:30,290 --> 00:10:30,750
+Same thing.
+
+158
+00:10:31,130 --> 00:10:33,380
+Those are like this brand name.
+
+159
+00:10:34,070 --> 00:10:39,140
+We also have to use these images, so I'm going to copy this, but the things?
+
+160
+00:11:03,260 --> 00:11:06,980
+We are almost done the the only thing is remaining is that.
+
+161
+00:11:08,140 --> 00:11:11,470
+Our main page, so on the main page.
+
+162
+00:11:11,890 --> 00:11:13,060
+So he was at is log in now.
+
+163
+00:11:13,900 --> 00:11:17,890
+So let's make his profile icon.
+
+164
+00:11:21,270 --> 00:11:23,600
+Let's air the hamburger menu.
+
+165
+00:11:25,630 --> 00:11:28,810
+This one, I think we have to increase the size of it.
+
+166
+00:11:32,140 --> 00:11:37,090
+Who learned what was the last frame like this?
+
+167
+00:11:37,630 --> 00:11:39,940
+So let's align them together, hold shift.
+
+168
+00:11:40,210 --> 00:11:42,010
+Select the profile icon.
+
+169
+00:11:43,460 --> 00:11:46,060
+Plus bottom and the second is vertical.
+
+170
+00:11:46,370 --> 00:11:49,600
+OK, let's add a text called.
+
+171
+00:11:53,700 --> 00:11:54,960
+Let's make some categories.
+
+172
+00:12:01,620 --> 00:12:06,870
+So we only have three categories, like what is going on with Visa and told Vanity.
+
+173
+00:12:07,120 --> 00:12:08,940
+So the list Adam, image for it.
+
+174
+00:12:11,500 --> 00:12:11,970
+Or.
+
+175
+00:12:14,070 --> 00:12:14,820
+Let's make it smaller.
+
+176
+00:12:17,960 --> 00:12:24,500
+And let's allow them to get the whole shift to the second instead of the third one that's at the bottom.
+
+177
+00:12:24,590 --> 00:12:28,760
+And then vertical and let's add some horizontal spacing.
+
+178
+00:12:29,210 --> 00:12:29,600
+OK.
+
+179
+00:12:30,900 --> 00:12:33,060
+So I just like this, OK?
+
+180
+00:12:33,390 --> 00:12:37,850
+And this are some text and silly categories or.
+
+181
+00:12:39,900 --> 00:12:44,370
+And lest we never turn to both those degrees, different sides.
+
+182
+00:12:45,760 --> 00:12:49,080
+Hold dragged to the second category.
+
+183
+00:12:50,270 --> 00:12:52,040
+And let's remember turning to pizza.
+
+184
+00:12:54,150 --> 00:12:55,440
+And the third one is.
+
+185
+00:12:57,020 --> 00:12:59,140
+So let's align the fault together.
+
+186
+00:13:01,490 --> 00:13:04,130
+Now it is a line together, so let's move them.
+
+187
+00:13:07,220 --> 00:13:08,510
+Legitimate upward, so.
+
+188
+00:13:09,800 --> 00:13:10,210
+OK.
+
+189
+00:13:10,280 --> 00:13:11,000
+This is perfect.
+
+190
+00:13:12,670 --> 00:13:17,920
+And so currently we are on like, uh, let's see, currently we are on burger you.
+
+191
+00:13:18,220 --> 00:13:20,730
+So let's make this image little bit below.
+
+192
+00:13:22,360 --> 00:13:30,100
+So currently in Bogut, currently we are in Burma section, and let's say we have only two options for
+
+193
+00:13:30,100 --> 00:13:32,130
+the US in the first page.
+
+194
+00:13:33,660 --> 00:13:39,660
+Just make another one like this, and let's make this image bigger because.
+
+195
+00:13:41,610 --> 00:13:42,750
+The user will know.
+
+196
+00:13:43,750 --> 00:13:48,340
+Currently, we selected this bill, and we can also make this text a bold.
+
+197
+00:13:50,030 --> 00:13:57,260
+So our developer will know currently the customer is on the BOGO section and we can earn some prizes.
+
+198
+00:13:58,470 --> 00:14:02,250
+For it, like, oh, let's see, this burger is for.
+
+199
+00:14:03,750 --> 00:14:06,780
+$15 doesn't give the -- sites.
+
+200
+00:14:07,860 --> 00:14:09,150
+For the $15.
+
+201
+00:14:12,410 --> 00:14:17,900
+Let's make it up to like twenty four and for second.
+
+202
+00:14:19,090 --> 00:14:24,370
+But let's make it up to like $18.
+
+203
+00:14:26,290 --> 00:14:28,040
+I know these are quite expensive.
+
+204
+00:14:29,410 --> 00:14:30,310
+Let's make it normal.
+
+205
+00:14:32,170 --> 00:14:34,780
+Because the user is selected the first blogger.
+
+206
+00:14:36,230 --> 00:14:37,730
+And this is the text.
+
+207
+00:14:38,920 --> 00:14:40,150
+A board like this.
+
+208
+00:14:40,870 --> 00:14:51,310
+Okay, so let's add some sections of it, so our user will know we have more options.
+
+209
+00:14:54,460 --> 00:14:57,580
+And select the first circular list in the California.
+
+210
+00:14:59,290 --> 00:15:02,230
+So our director will no doubt our customer will.
+
+211
+00:15:02,980 --> 00:15:04,930
+Currently, he or she is on front page.
+
+212
+00:15:06,420 --> 00:15:10,740
+So if he swipes, then he's going to be on the second page like this.
+
+213
+00:15:11,340 --> 00:15:14,980
+I was like, I S. So this is the wireframe for our first project.
+
+214
+00:15:15,000 --> 00:15:16,440
+That is the light of the project.
+
+215
+00:15:17,070 --> 00:15:19,230
+You can see our final project.
+
+216
+00:15:20,340 --> 00:15:21,480
+This is our brand name.
+
+217
+00:15:22,230 --> 00:15:24,090
+You can see brand name plus image.
+
+218
+00:15:24,720 --> 00:15:25,590
+Log in, sign up.
+
+219
+00:15:27,450 --> 00:15:32,460
+Username, password logging and logging, which button select widow, his book and Google.
+
+220
+00:15:34,110 --> 00:15:35,140
+Same for here.
+
+221
+00:15:35,790 --> 00:15:42,550
+You can see we also so this logging into like Benkler, because our users will know.
+
+222
+00:15:42,600 --> 00:15:45,710
+Currently, he is on the logging page and in this page.
+
+223
+00:15:46,750 --> 00:15:54,580
+He will launch his own sign up page, and we can see the categories be the puzzle that you can and you
+
+224
+00:15:54,580 --> 00:15:55,130
+can see.
+
+225
+00:15:55,150 --> 00:15:56,920
+We made this burger.
+
+226
+00:15:58,030 --> 00:15:58,570
+Highlighted.
+
+227
+00:15:59,650 --> 00:16:08,200
+So user will noncurrent he's on a category, and first he selected this burger, the first on it and
+
+228
+00:16:08,260 --> 00:16:19,720
+it is $15 burger and you can see I also added the card so he can check out the profile picture and hamburger
+
+229
+00:16:19,730 --> 00:16:20,020
+mean.
+
+230
+00:16:21,990 --> 00:16:24,000
+And we can also add the surge, but.
+
+231
+00:16:25,800 --> 00:16:29,160
+So this is the wireframe for our first project.
+
+232
+00:16:30,160 --> 00:16:34,600
+So in next winter, we are going to make this vital frame into this project.
+
+233
+00:16:35,170 --> 00:16:41,740
+I know this is the very individual, but we just have to drag and drop things and I just do some portion
+
+234
+00:16:41,740 --> 00:16:42,940
+of the element like this.
+
+235
+00:16:43,120 --> 00:16:46,960
+So once we make you aware of, you can make your project melt faster.
+
+236
+00:16:47,860 --> 00:16:54,280
+So I'm going to divide every video in the separate part, like in first video, I will add this blessed
+
+237
+00:16:54,290 --> 00:16:55,140
+in analog and faith.
+
+238
+00:16:55,150 --> 00:17:04,840
+In the first video and the second video, I will add a sign up page and in turn, I will add this main
+
+239
+00:17:05,020 --> 00:17:10,960
+page, which will become more Shorter's, and it will also going to be easy to understand.
+
+240
+00:17:11,380 --> 00:17:14,380
+So that's what will do, and I will do it next one.

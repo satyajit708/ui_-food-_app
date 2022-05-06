@@ -1,0 +1,739 @@
+1
+00:00:00,090 --> 00:00:00,570
+Welcome back.
+
+2
+00:00:00,760 --> 00:00:02,330
+Previously, we made to sign up.
+
+3
+00:00:02,640 --> 00:00:09,240
+So in this building, we are going to make this main page so you can see the wire frame for it to choose
+
+4
+00:00:09,240 --> 00:00:09,720
+a frame.
+
+5
+00:00:10,560 --> 00:00:13,040
+iPhone 11 Pro Max your listing image.
+
+6
+00:00:14,520 --> 00:00:22,230
+OK, let's make this pitch digital with Gray, because we are going to add some elements like search
+
+7
+00:00:22,230 --> 00:00:27,150
+bar and also if the search bar is going to be white, so.
+
+8
+00:00:28,320 --> 00:00:29,270
+So it is not going to.
+
+9
+00:00:31,420 --> 00:00:33,430
+So I think there's going to be in the.
+
+10
+00:00:35,240 --> 00:00:38,840
+And the list in the background and like totally.
+
+11
+00:00:40,980 --> 00:00:41,550
+Like this.
+
+12
+00:00:42,240 --> 00:00:49,740
+So our mental page will be more visible, so for this mental bridge, you can see in the wire frame,
+
+13
+00:00:49,740 --> 00:00:56,310
+we require this hamburger menu icon, the profile picture icon and text and some images.
+
+14
+00:00:57,090 --> 00:00:58,980
+So let's make those things.
+
+15
+00:00:59,490 --> 00:01:02,520
+So in my folder, I have all the resources.
+
+16
+00:01:04,590 --> 00:01:06,180
+So let's move them into our.
+
+17
+00:01:08,220 --> 00:01:09,910
+Sigma project.
+
+18
+00:01:10,290 --> 00:01:10,740
+OK.
+
+19
+00:01:10,800 --> 00:01:14,880
+The images are like 2B, so we have to consider them.
+
+20
+00:01:17,770 --> 00:01:25,240
+So we have all the resources, like this hamburger menu icon that can handle the profile picture and
+
+21
+00:01:25,240 --> 00:01:27,410
+some elements like a disposable.
+
+22
+00:01:28,120 --> 00:01:36,070
+So we are going to use one by one for less and just this menu at the top.
+
+23
+00:01:36,940 --> 00:01:42,580
+So less question route and the length and it'll.
+
+24
+00:01:44,450 --> 00:01:50,560
+So the second thing is profile picture, so let's make that profile vigil, OK.
+
+25
+00:01:50,990 --> 00:02:01,010
+For that, we are going on need ellipse and horseshoe and go to the chapel and place image.
+
+26
+00:02:03,030 --> 00:02:06,480
+And I going to do this one, you can choose your own image also.
+
+27
+00:02:09,470 --> 00:02:16,160
+And I'm going to put it on this open, OK, I see it is closed, but you can see the photo is kind of
+
+28
+00:02:16,160 --> 00:02:17,010
+on the right side.
+
+29
+00:02:17,540 --> 00:02:20,810
+It is infinite and you can see in the fail option, we have this image.
+
+30
+00:02:20,930 --> 00:02:21,500
+Click on it.
+
+31
+00:02:22,460 --> 00:02:23,830
+And indeed.
+
+32
+00:02:24,470 --> 00:02:26,960
+And let's choose Grow.
+
+33
+00:02:28,720 --> 00:02:37,240
+And this is the image like this, and OK, the profile picture, it's really.
+
+34
+00:02:38,450 --> 00:02:41,400
+So this are some stroke, it stroke.
+
+35
+00:02:42,830 --> 00:02:47,950
+Let's make it up to to change the color of this stroke.
+
+36
+00:02:48,620 --> 00:02:49,250
+The White.
+
+37
+00:02:51,130 --> 00:02:52,780
+And less recited.
+
+38
+00:02:55,210 --> 00:02:55,710
+You like.
+
+39
+00:02:58,610 --> 00:02:59,070
+Do you mind?
+
+40
+00:03:02,060 --> 00:03:04,850
+OK, so let's add some text that is.
+
+41
+00:03:06,260 --> 00:03:07,590
+Choose the food you love.
+
+42
+00:03:08,220 --> 00:03:11,870
+So this one will see it in the text.
+
+43
+00:03:13,920 --> 00:03:14,760
+And controls we.
+
+44
+00:03:16,930 --> 00:03:17,220
+OK.
+
+45
+00:03:18,690 --> 00:03:22,020
+So you can see I used on the.
+
+46
+00:03:23,080 --> 00:03:25,500
+Falcons want and all.
+
+47
+00:03:27,140 --> 00:03:33,470
+For this upper, I use the regular and the and for this cordial, I used the same word.
+
+48
+00:03:34,190 --> 00:03:35,390
+So let's add it.
+
+49
+00:03:37,040 --> 00:03:38,660
+According to this, the icon.
+
+50
+00:03:39,900 --> 00:03:40,500
+Like this?
+
+51
+00:03:41,130 --> 00:03:46,380
+So what is the next thing we have to do so we can add categories like this?
+
+52
+00:03:46,860 --> 00:03:51,130
+We can do that, but let's earlier search bar.
+
+53
+00:03:51,210 --> 00:03:54,360
+So where users can find these items?
+
+54
+00:03:56,020 --> 00:03:58,180
+So select the rectangle.
+
+55
+00:03:59,680 --> 00:04:06,910
+We can just copy this ship so that the ship and drag it on the supreme.
+
+56
+00:04:09,650 --> 00:04:17,660
+OK, so let's change the color of it into white, and you can see we already have some drop shadow,
+
+57
+00:04:18,380 --> 00:04:20,570
+so we can, if you want to, we can adjust it.
+
+58
+00:04:21,560 --> 00:04:25,130
+I'm going to leave as it is, so let's edit text.
+
+59
+00:04:25,820 --> 00:04:27,410
+So let's select this text.
+
+60
+00:04:28,970 --> 00:04:37,010
+Austrian imaging to search less and less chance of color of it currently is black.
+
+61
+00:04:37,970 --> 00:04:42,290
+So I'm going to choose according to this search.
+
+62
+00:04:43,160 --> 00:04:46,830
+Text like this must decrease the size of image.
+
+63
+00:04:49,880 --> 00:04:51,230
+And this all together.
+
+64
+00:04:54,060 --> 00:05:03,140
+OK, so it is a now deciding what to let's make the said what a bit bigger, so let's make it great
+
+65
+00:05:03,180 --> 00:05:05,490
+appeal to hockey.
+
+66
+00:05:09,180 --> 00:05:16,440
+And does it center in the scientist is such and such, I can't.
+
+67
+00:05:19,720 --> 00:05:23,230
+OK, the next thing is to add categories.
+
+68
+00:05:23,890 --> 00:05:25,540
+So let's add some categories.
+
+69
+00:05:28,620 --> 00:05:28,980
+OK.
+
+70
+00:05:29,130 --> 00:05:30,450
+Let's add some categories.
+
+71
+00:05:30,980 --> 00:05:32,070
+So the rectangle.
+
+72
+00:05:33,360 --> 00:05:35,040
+And draw it like this.
+
+73
+00:05:36,110 --> 00:05:41,370
+Let's make it up to like worth up to one 10 one one zero.
+
+74
+00:05:41,430 --> 00:05:44,280
+And the height of the next 70.
+
+75
+00:05:46,210 --> 00:05:49,360
+And let's add some advantages.
+
+76
+00:05:49,630 --> 00:05:51,970
+Let's make it up to like a quantify.
+
+77
+00:05:53,320 --> 00:05:57,420
+So looking at this one again or last one?
+
+78
+00:05:58,480 --> 00:05:59,740
+So let's Linden together.
+
+79
+00:06:02,470 --> 00:06:04,350
+So let's change the color of which.
+
+80
+00:06:08,080 --> 00:06:09,040
+Let's make it a white.
+
+81
+00:06:13,600 --> 00:06:15,910
+If you want, you can also add a drop shadow in you.
+
+82
+00:06:16,090 --> 00:06:17,680
+Let's change the color of that background.
+
+83
+00:06:18,220 --> 00:06:20,630
+Currently, the whitest non-visible light my.
+
+84
+00:06:25,030 --> 00:06:28,850
+Are these accounts OK?
+
+85
+00:06:29,020 --> 00:06:30,530
+These are the you find.
+
+86
+00:06:30,550 --> 00:06:34,780
+So let's move them together out, control G.
+
+87
+00:06:36,000 --> 00:06:38,010
+Second one spins out of control key.
+
+88
+00:06:39,340 --> 00:06:41,280
+Germany, Japan and control.
+
+89
+00:06:42,370 --> 00:06:46,690
+So when we are working with them, so they are not going to mismatch.
+
+90
+00:06:49,290 --> 00:06:57,060
+OK, the first one is one of Ebola, and the and the first section is gender dimension of it, like,
+
+91
+00:06:57,060 --> 00:07:01,020
+oh, let's queue up to like fifty or forty five.
+
+92
+00:07:05,570 --> 00:07:07,940
+So let's add to them at the center.
+
+93
+00:07:10,490 --> 00:07:10,870
+OK.
+
+94
+00:07:12,050 --> 00:07:12,860
+They are alone now.
+
+95
+00:07:13,860 --> 00:07:15,180
+OK, what else is remaining?
+
+96
+00:07:16,130 --> 00:07:20,540
+So we have to name it like woke up is changing the soil a strange image.
+
+97
+00:07:21,650 --> 00:07:23,720
+So let's name it the first puzzle.
+
+98
+00:07:23,990 --> 00:07:25,460
+So I'm going to copy this text.
+
+99
+00:07:28,810 --> 00:07:30,010
+This island in Bermuda.
+
+100
+00:07:30,500 --> 00:07:36,250
+So click on the Pogo Centre, the second and select the pizza, then the bottom.
+
+101
+00:07:38,080 --> 00:07:40,000
+OK, now I'll end them vertically.
+
+102
+00:07:41,020 --> 00:07:41,560
+Thanks.
+
+103
+00:07:42,340 --> 00:07:47,170
+So we have to change the color of this burger because currently we are.
+
+104
+00:07:47,440 --> 00:07:50,440
+The burger section so we can change the color of it.
+
+105
+00:07:50,440 --> 00:07:53,530
+So users will know is in the burger section.
+
+106
+00:07:54,400 --> 00:07:56,830
+So let's move this category and this.
+
+107
+00:07:58,330 --> 00:08:00,600
+S. Little bit moles, of course.
+
+108
+00:08:01,180 --> 00:08:05,290
+Currently, we are in BOGO section, so we are going to air this.
+
+109
+00:08:05,860 --> 00:08:09,040
+So let's do the rectangle and draw rectangle like this.
+
+110
+00:08:09,820 --> 00:08:14,610
+Let's give the damage like one certainty and height of like
+
+111
+00:08:17,380 --> 00:08:18,100
+two one zero.
+
+112
+00:08:19,450 --> 00:08:22,960
+Let's add some religious side up to let thirty point.
+
+113
+00:08:25,000 --> 00:08:25,480
+OK.
+
+114
+00:08:27,430 --> 00:08:34,040
+So this one is going to be our first global alert to get this one.
+
+115
+00:08:34,600 --> 00:08:39,850
+So I'm going to like increase the height of it because currently the user selected this burger.
+
+116
+00:08:40,810 --> 00:08:44,020
+So let's make it up to let's 119 it.
+
+117
+00:08:45,710 --> 00:08:50,120
+Sulking like this, and let's change the color of it, let's make it clear, don't.
+
+118
+00:08:51,880 --> 00:08:58,990
+Let's change the first bill into red and skin color into global.
+
+119
+00:09:01,230 --> 00:09:02,880
+You can place it wherever you want.
+
+120
+00:09:03,510 --> 00:09:05,280
+As per requirement.
+
+121
+00:09:05,970 --> 00:09:07,710
+So I'm going to blessing it all here.
+
+122
+00:09:07,740 --> 00:09:08,310
+Like this?
+
+123
+00:09:09,120 --> 00:09:09,570
+OK?
+
+124
+00:09:09,780 --> 00:09:12,050
+Let's and the image of that burger.
+
+125
+00:09:12,090 --> 00:09:13,980
+So currently, this is the first burger.
+
+126
+00:09:17,560 --> 00:09:20,740
+And it's in the color of the white.
+
+127
+00:09:22,110 --> 00:09:25,200
+This is going to be also Ken Vogel, let's just name them.
+
+128
+00:09:25,860 --> 00:09:31,560
+So the first one, I don't know what is the name of them, but we can name in court you, what do you
+
+129
+00:09:31,560 --> 00:09:31,860
+want?
+
+130
+00:09:32,520 --> 00:09:35,550
+Or you can search on the Google, the name of the police.
+
+131
+00:09:36,510 --> 00:09:38,250
+I can call them over here.
+
+132
+00:09:38,520 --> 00:09:40,560
+So let's change the color of this font.
+
+133
+00:09:41,250 --> 00:09:41,920
+It is black.
+
+134
+00:09:41,940 --> 00:09:42,960
+Let's make it white.
+
+135
+00:09:43,590 --> 00:09:45,480
+So it will look more better.
+
+136
+00:09:48,590 --> 00:09:50,070
+Is the -- sites?
+
+137
+00:09:50,960 --> 00:09:51,360
+Nothing.
+
+138
+00:09:53,670 --> 00:09:55,110
+And let's make it simple.
+
+139
+00:09:56,600 --> 00:10:01,190
+And this and the price of it, Senator, this text holds.
+
+140
+00:10:01,490 --> 00:10:03,230
+And as our dollar sign.
+
+141
+00:10:04,370 --> 00:10:07,240
+This is burglaries up to like $18.
+
+142
+00:10:09,330 --> 00:10:11,130
+Almost the length to text.
+
+143
+00:10:11,880 --> 00:10:14,260
+Make it up really pretty.
+
+144
+00:10:15,510 --> 00:10:18,720
+So if you want to, you can also add writings in it.
+
+145
+00:10:18,870 --> 00:10:20,460
+So let's earn the trading.
+
+146
+00:10:21,210 --> 00:10:22,800
+I think I having the resources.
+
+147
+00:10:22,830 --> 00:10:30,390
+Let me let me say OK, or I have this dance intro for the project.
+
+148
+00:10:32,300 --> 00:10:33,650
+OK, you can see the start.
+
+149
+00:10:35,190 --> 00:10:41,850
+And let's change a lot of it into a law like this.
+
+150
+00:10:43,660 --> 00:10:49,930
+So users will know all previous customers had good experience with disposable.
+
+151
+00:10:51,520 --> 00:10:57,540
+Selling them together, so last name this burglar currently distorted words.
+
+152
+00:10:57,640 --> 00:10:59,980
+So therefore, it is not possible, so let's make it.
+
+153
+00:11:01,340 --> 00:11:02,610
+Black this.
+
+154
+00:11:02,810 --> 00:11:05,720
+OK, so unless mortgage or you.
+
+155
+00:11:07,400 --> 00:11:12,080
+And this includes the -- sites of, let's say.
+
+156
+00:11:13,640 --> 00:11:16,430
+And then just copy this one.
+
+157
+00:11:19,240 --> 00:11:21,070
+Just change the color of it also.
+
+158
+00:11:23,570 --> 00:11:28,820
+Analysts say the value of it, so it is going to be up to like $15.
+
+159
+00:11:30,240 --> 00:11:31,560
+OK, what else is remaining?
+
+160
+00:11:33,350 --> 00:11:41,270
+I think the auditing is done, so I think this listing ceremony, so selection of souls and those things
+
+161
+00:11:42,230 --> 00:11:43,130
+to the ellipse.
+
+162
+00:11:45,380 --> 00:11:47,060
+Blogs and sermons.
+
+163
+00:11:48,920 --> 00:11:52,340
+Let's make it like this Gray.
+
+164
+00:11:55,930 --> 00:12:02,780
+So if the first not and let's it failed or we can choose this.
+
+165
+00:12:03,290 --> 00:12:03,610
+Hello.
+
+166
+00:12:05,120 --> 00:12:07,310
+On this, make a little bit bigger, so.
+
+167
+00:12:08,760 --> 00:12:11,430
+User Bill Law is in the food time.
+
+168
+00:12:13,520 --> 00:12:14,450
+OK, like this.
+
+169
+00:12:14,930 --> 00:12:16,460
+That's all we have got together.
+
+170
+00:12:20,920 --> 00:12:30,730
+And I think one thing is everything is there to add a card, so let's select the ellipse and show all.
+
+171
+00:12:32,760 --> 00:12:34,790
+Let's give her a of electric pump.
+
+172
+00:12:37,160 --> 00:12:40,310
+And all Irish folk.
+
+173
+00:12:43,590 --> 00:12:46,800
+And this tender inner pillar of grit and into.
+
+174
+00:12:51,340 --> 00:12:55,360
+In asset holder, we have that you can see the back.
+
+175
+00:12:58,480 --> 00:13:04,390
+So this ad is back shopping bag and the center, so.
+
+176
+00:13:07,160 --> 00:13:10,670
+And let's change the color of it, but let's make it right.
+
+177
+00:13:12,290 --> 00:13:14,660
+And do this artistic the center.
+
+178
+00:13:14,960 --> 00:13:15,700
+OK, thank you.
+
+179
+00:13:16,970 --> 00:13:18,470
+So everything is done.
+
+180
+00:13:19,100 --> 00:13:21,010
+So our main obsession is done now.
+
+181
+00:13:21,020 --> 00:13:24,970
+So the only thing is remaining in this project is there to do the right thing.
+
+182
+00:13:25,490 --> 00:13:28,180
+So in the in the next world, we are going to do protecting.
+
+183
+00:13:28,190 --> 00:13:29,090
+So that's opportunity.
+
+184
+00:13:29,360 --> 00:13:30,160
+And I was you guys.
+
+185
+00:13:30,380 --> 00:13:30,860
+Next one.
